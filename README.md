@@ -54,7 +54,7 @@
 ```text
 Weather-App/
 │
-├── hello.py
+├── weather_app.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
@@ -74,7 +74,7 @@ Weather-App/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-dashboard.git
+git clone https://github.com/Piyushnegi7/weather-dashboard.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
@@ -117,7 +117,7 @@ OPENWEATHER_API_KEY=your_api_key_here
 ## ▶️ Run the Application
 
 ```bash
-python hello.py
+python weather_app.py
 ```
 
 ---
@@ -181,6 +181,10 @@ Passionate about software quality assurance, test automation, game testing, and 
 ---
 
 <div align="center">
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### ⭐ If you found this project useful, consider giving it a star!
 
